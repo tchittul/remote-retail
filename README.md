@@ -18,10 +18,14 @@ Costs: Customer Acquisition (Advertising through Google, Facebook, & LinkedIn)
 //HOW TO BUILD//
 
 DESIGN: Figma
+
 FRONT-END (browser): React.js
+
 DATABASE: MySQL
+
 BACK-END (server): Firebase (build a serverless API), get pre-built APIs, Node.js - needed in frontend as well for running build tools (whether that’s Webpack or NPM or Grunt or Gulp)
 *backend fetches data for frontend
 
 All types of front-end: React.js, JQuery
+
 All types of back-end: Java/PHP, Lumen, Node.js, Express.js, Ruby
